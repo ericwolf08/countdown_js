@@ -1,0 +1,18 @@
+div {
+    background-size: cover;
+    position: absolute;
+    overflow: hidden;
+}
+body {
+    overflow: hidden;
+    margin: 0px;
+}
+p{
+    display: table-cell;
+    padding: 10px;
+    position: absolute;
+    top: 40%;
+    vertical-align: middle;
+    text-align: center;
+    color: white;
+}
